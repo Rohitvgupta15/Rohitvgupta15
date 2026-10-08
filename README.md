@@ -38,6 +38,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitgupta15/">LinkedIn</a> •
   <a href="https://github.com/Rohitvgupta15">GitHub</a>
+  <a href="https://https://rohitvgupta15.github.io/">Website</a>
 </p>
 
 <p align="center">
